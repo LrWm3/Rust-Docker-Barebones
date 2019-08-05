@@ -1,0 +1,6 @@
+[package]
+name = "rust_docker_barebones"
+version = "0.1.0"
+authors = ["William Marsman <L.R.William.Marsman@dal.ca>"]
+
+[dependencies]
